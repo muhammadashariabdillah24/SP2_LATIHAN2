@@ -4,11 +4,13 @@ let listDesaBantul = {
         'Bibis',
         'Kokap',
     ],
+
     "Trimurti" : [
         'Greso',
         'Puron',
         'Pedak',
     ],
+
     "Sanden" : [
         'Dayu',
         'Soka',
